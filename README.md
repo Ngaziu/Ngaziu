@@ -1,31 +1,51 @@
 # Ciao, sono Domenico Schipani 👋
 
-> **"Trasformo la complessità del digitale in strategie misurabili e architetture scalabili."**
+## E-commerce, Digital Operations e AI applicata al business
 
-Sono un **E-commerce Manager & Digital Strategist** con 18 anni di esperienza, in transizione verso il ruolo di **GTM (Go-To-Market) Engineer**. Mi definisco un *"dot connector"*: faccio da ponte tra l'implementazione tecnica (codice, infrastruttura, AI) e gli obiettivi di business (ROI, conversioni, fatturato).
+Aiuto aziende di prodotto e PMI a collegare e-commerce, marketing, dati e processi operativi per trasformare il digitale in risultati misurabili.
 
-Oggi non mi limito a usare l'AI come tool passivo: progetto workflow agentici, integro sistemi RAG e sviluppo soluzioni architetturali per scalare la produttività aziendale, mantenendo sempre l'essere umano al centro del processo decisionale (*human-in-the-loop*).
+Ho oltre 18 anni di esperienza in e-commerce, digital strategy, marketplace e gestione di progetti. Lavoro nel punto d’incontro tra business, marketing, tecnologia e fornitori esterni: raccolgo esigenze, traduco priorità aziendali in requisiti operativi e accompagno l’implementazione fino alla misurazione dei risultati.
 
-### 🛠️ Il mio Stack & Competenze "a T"
-La mia visione *Full-Stack* mi permette di parlare sia la lingua del CTO che quella del CMO.
+> **Dalla complessità digitale a processi più connessi, misurabili e scalabili.**
 
-* **AI & Machine Learning:** RAG (Retrieval-Augmented Generation), LLMs (Gemini, ChatGPT API, Prompt Engineering Avanzato), Scikit-Learn, Agentic Workflows.
-* **Sviluppo & Data:** Python, SQL, HTML, CSS, JS.
-* **Backend & Tooling:** Flask, Git, Docker, Database Vettoriali (ChromaDB), Cloud (AWS Cloud Practitioner in progress).
-* **Business & Strategy:** Ottimizzazione Conversion Rate (CRO), Data-Driven Marketing, Omnicanalità strategica, Project Management.
+## Su cosa lavoro
 
-### 🚀 I miei Progetti di Ricerca & Sviluppo (R&D)
-Qui su GitHub condivido ecosistemi in cui unisco l'ingegneria del software con l'Intelligenza Artificiale per risolvere problemi di business reali:
-* 🤖 **AI Second Brain RAG**: Architettura basata su ChromaDB, Flask e Gemini per l'interrogazione intelligente di basi di conoscenza.
-* 🏭 **AutomaParts**: Modello di classificazione Machine Learning (Random Forest) per la predizione dei difetti di produzione manifatturiera.
-* 📦 **LogiServe B2B**: Sistema di monitoraggio ordini e magazzino backend per l'ottimizzazione dell'inventory management.
+- **E-commerce & marketplace:** strategia, catalogo, canali diretti, Amazon, eBay e ottimizzazione della conversione
+- **Digital operations:** coordinamento di progetti web, fornitori, tracking, hosting, domini e piattaforme
+- **MarTech & automation:** workflow tra CRM, e-commerce, email marketing, analytics, API e strumenti AI
+- **Data & decisioni:** reporting, KPI, analisi vendite, lettura delle performance di prodotto e canale
+- **AI applicata:** prototipi RAG, automazioni assistite da LLM e workflow human-in-the-loop
 
-### 🎓 Background
-* **Digital Marketing Manager Certificato** ISO/IEC 17024 (CEPAS Bureau Veritas).
-* Oltre un decennio di esperienza in **Agencies e Product Ownership** (portando e-commerce da zero a oltre 500k€ di fatturato).
-* Executive Master EQF6 “Digital Marketing Strategist” (Università LUM).
+## Tech Lab
 
-### 📫 Connettiamoci
-Se cerchi un partner strategico che unisca visione aziendale ed esecuzione tecnica dell'AI, parliamone.
-- 🌐 **Sito Web:** [domenicoschipani.com](https://www.domenicoschipani.com/)
-- 💼 **LinkedIn:** [in/domenico-schipani](https://www.linkedin.com/in/domenico-schipani)
+Uso GitHub come laboratorio pubblico per sviluppare e documentare progetti pratici su integrazione di sistemi, dati e AI applicata.
+
+Attualmente approfondisco:
+
+- Python, SQL, API REST, JSON e webhook
+- Git, Docker e sviluppo di piccoli servizi backend
+- AWS Cloud Foundations e AI on AWS
+- RAG, LLM, vector database e agentic workflows
+- Data integration, marketing automation e analytics
+
+## Progetti in evidenza
+
+> I repository saranno pubblicati e documentati progressivamente con obiettivi business, architettura, stack utilizzato, limiti e risultati.
+
+- **Predictive Defect Classification (Manufacturing)** — integrazione e analisi dei dati su difetti di produzione in fabbrica (Automotive)
+- **AI Knowledge Assistant** — prototipo RAG per interrogare documentazione e procedure aziendali con supervisione umana
+- **Order & Inventory Monitor** — progetto di monitoraggio ordini e scorte per migliorare visibilità operativa e gestione delle eccezioni
+
+## Background
+
+- E-commerce Manager & Digital Strategist con oltre 18 anni di esperienza
+- Digital Marketing Manager certificato **CEPAS Bureau Veritas** secondo ISO/IEC 17024
+- Esperienza nella crescita di progetti e-commerce, dal lancio alla gestione di canali con oltre 500.000 euro di fatturato
+- Executive Master in Digital Marketing Strategist — Università LUM
+
+## Contatti
+
+- Sito: [domenicoschipani.com](https://www.domenicoschipani.com/)
+- LinkedIn: [linkedin.com/in/domenico-schipani](https://www.linkedin.com/in/domenico-schipani)
+
+Se ti occupi di e-commerce, digital transformation o integrazione tra processi e piattaforme, sono felice di confrontarmi.
